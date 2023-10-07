@@ -12,8 +12,8 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Technologies Used:-
 The following technologies and tools were used in the development of this website:
--HTML5
--CSS3
+- Html5
+- Css3
 
 ## Getting Started
 To get started with this project, follow these steps:
